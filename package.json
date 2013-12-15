@@ -1,0 +1,20 @@
+{
+  "author": "Johannes Erber",
+  "name": "underscorize",
+  "description": "In place bindings of underscore.js functions.",
+  "version": "0.0.1",
+  "repository": {
+    "url": "https://github.com/J-Hannes/underscorize.js"
+  },
+  "main": "./underscorize",
+  "keywords": [
+    "underscore",
+    "functional",
+  ],
+  "dependencies": {
+    "underscore" 
+  },
+  "engines": {
+    "node": "*"
+  }
+}
